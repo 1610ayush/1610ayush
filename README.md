@@ -5,12 +5,14 @@
 <img width="1200" src="https://user-images.githubusercontent.com/67241639/188285209-1d78c808-2ce4-4ba9-84f9-f39bbbe757d9.svg" >
 
 <p align="center"> Currently working <p/>
+<p align="center">
 <a href="https://github.com/1610ayush/Cookie-Popup-animation">
-  <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=Cookie-Popup-animation" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=Cookie-Popup-animation" />
 </a>
 <a href="https://github.com/1610ayush/portfolio-react">
-  <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=portfolio-react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=portfolio-react" />
 </a>
+</p>
 
 
 <p align="center">
@@ -57,12 +59,12 @@ Tech Stack
 </p>
 
 <p align="center">
-<img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=Jobboard" >
-<img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=portfolio-react" >
-<img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=crypto-app" >
-<img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=music-app" >
-<img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=ignite" >
-<img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=youtuber_marketplace" >
+<a href="https://github.com/1610ayush/Jobboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=Jobboard" ></a>
+<a href="https://github.com/1610ayush/portfolio-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=portfolio-react" ></a>
+<a href="https://github.com/1610ayush/crypto-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=crypto-app" ></a>
+<a href="https://github.com/1610ayush/music-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=music-app" ></a>
+<a href="https://github.com/1610ayush/ignite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=ignite" ></a>
+<a href="https://github.com/1610ayush/youtuber_marketplace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=youtuber_marketplace" ></a>
 </p>
 
 
