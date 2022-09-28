@@ -1,4 +1,4 @@
- <p align="center">Welcome to Ayush' Github profile!<img src="giphy.gif" width="25" title="hover text"></p>
+<p align="center">Welcome to Ayush' Github profile!<img src="giphy.gif" width="25" title="hover text"></p>
  
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9913F7&width=190&lines=Web+Developer" alt="Typing SVG" /></a></p>
 <hr>
@@ -61,5 +61,7 @@ Tech Stack
 <a href="https://github.com/1610ayush/ignite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=ignite" ></a>
 <a href="https://github.com/1610ayush/youtuber_marketplace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=youtuber_marketplace" ></a>
 </p>
+
+[![@ayush1610's Holopin board](https://holopin.io/api/user/board?user=ayush1610)](https://holopin.io/@ayush1610)
 
 
