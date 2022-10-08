@@ -58,7 +58,7 @@ Tech Stack
 <p align="center">
 <a href="https://github.com/1610ayush/Jobboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=Jobboard" ></a>
 <a href="https://github.com/1610ayush/portfolio-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=portfolio-react" ></a>
-<a href="https://github.com/1610ayush/my-ecomm-store"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=crypto-app" ></a>
+<a href="https://github.com/1610ayush/my-ecomm-store"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=my-ecomm-store" ></a>
 <a href="https://github.com/1610ayush/music-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=music-app" ></a>
 <a href="https://github.com/1610ayush/ignite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=ignite" ></a>
 <a href="https://github.com/1610ayush/youtuber_marketplace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=1610ayush&repo=youtuber_marketplace" ></a>
